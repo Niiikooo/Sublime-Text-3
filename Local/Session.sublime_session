@@ -1,0 +1,2035 @@
+{
+	"folder_history":
+	[
+		"/E/BBS/php/blog",
+		"/C/Users/liuha_000/Desktop/BBS"
+	],
+	"last_version": 3126,
+	"last_window_id": 34,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 669.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"_",
+						"_SESSION"
+					],
+					[
+						"names",
+						"namespace"
+					],
+					[
+						"preg_rep",
+						"preg_replace_callback"
+					],
+					[
+						"compi",
+						"compileTime"
+					],
+					[
+						"fu",
+						"fun\tfunction …"
+					],
+					[
+						"data",
+						"Database"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"__",
+						"__construct"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"link",
+						"link_verify"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"bbs",
+						"bbs_user"
+					],
+					[
+						"ip",
+						"ip2long"
+					],
+					[
+						"user",
+						"userdata"
+					],
+					[
+						"a",
+						"answer"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"category",
+						"categoryMan"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"details",
+						"detailsManage"
+					],
+					[
+						"admin",
+						"adminIndex"
+					],
+					[
+						"preg",
+						"preg_match"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"is_",
+						"is_array"
+					],
+					[
+						"class",
+						"classname"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"from",
+						"form-control"
+					],
+					[
+						"strc",
+						"strchr"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"_S",
+						"_SESSION"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"new",
+						"newTitle"
+					],
+					[
+						"uid",
+						"uidToname"
+					],
+					[
+						"bbs_",
+						"bbs_userdata"
+					],
+					[
+						"name",
+						"nameArr"
+					],
+					[
+						"cla",
+						"classid"
+					],
+					[
+						"bm",
+						"bmUser"
+					],
+					[
+						"cl",
+						"classid"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"time",
+						"timeToday"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"cid",
+						"cidData"
+					],
+					[
+						"list",
+						"listToday"
+					],
+					[
+						"form",
+						"form-control"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"TPL",
+						"TPL_IMG"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"big",
+						"bigtitle"
+					],
+					[
+						"bot",
+						"button\tTag"
+					],
+					[
+						"gl",
+						"global"
+					],
+					[
+						"gol",
+						"global"
+					],
+					[
+						"pwd",
+						"pwd_database"
+					],
+					[
+						"met",
+						"meta\tTag"
+					],
+					[
+						"array_me",
+						"array_merge_recursive"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"nu",
+						"num2"
+					],
+					[
+						"func_get",
+						"func_get_arg"
+					],
+					[
+						"float",
+						"floatval"
+					],
+					[
+						"pd",
+						"padding-bottom"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"navi",
+						"navi-item"
+					],
+					[
+						"while",
+						"while-1"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Environment"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/BBS/php/blog/app/Model/page.php",
+				"/E/BBS/php/blog/tpl/user.html",
+				"/E/BBS/php/blog/tpl/index.html",
+				"/E/BBS/php/blog/tpl/publish.html",
+				"/E/BBS/php/blog/tpl/details.html",
+				"/E/BBS/php/blog/tpl/login.html",
+				"/E/BBS/php/blog/tpl/adminIndex.html",
+				"/E/BBS/php/blog/app/Controller/IndexController.php",
+				"/E/BBS/php/blog/app/Model/Model.php",
+				"/E/BBS/php/blog/tpl/error.html",
+				"/E/BBS/php/blog/tpl/success.html",
+				"/E/BBS/php/blog/tpl/register.html",
+				"/E/BBS/php/blog/cache/d7b87851fb4ddfe29b7619f8f716dc6c.php",
+				"/E/BBS/php/blog/app/Model/Tpl.php",
+				"/E/BBS/php/blog/config/config.php",
+				"/E/BBS/php/blog/bootstrap/Start.php",
+				"/E/BBS/php/blog/app/Controller/Controller.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/front/publish.html",
+				"/E/BBS/php/blog/startbootstrap-blog-home-gh-pages/index.html",
+				"/E/BBS/php/blog/index.php",
+				"/E/BBS/php/blog/vendor/lhc/framework/src/Verify.php",
+				"/E/BBS/php/blog/test.php",
+				"/E/BBS/php/blog/config/namespaces.php",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/register_verify.php",
+				"/E/BBS/php/0623/Verify.php",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/login_verify.php",
+				"/E/BBS/php/blog/app/Model/model (2).php",
+				"/E/BBS/php/0623/model.php",
+				"/E/BBS/php/0627/mvc/vendor/cm/framework/src/upload.php",
+				"/E/BBS/php/0627/mvc/vendor/lk/framework/src/Model.php",
+				"/E/wamp/bin/apache/apache2.4.23/conf/httpd.conf",
+				"/E/wamp/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+				"/E/BBS/php/blog/bootstrap/start.php",
+				"/E/BBS/php/blog/bootstrap/Psr4Autoload.php",
+				"/E/BBS/php/0627/mvc/index.php",
+				"/E/BBS/php/0628/upload/get_class_vars.php",
+				"/E/BBS/php/0628/upload/Upload.php",
+				"/E/BBS/php/0628/upload/up.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/app/Controller/IndexController.php",
+				"/E/BBS/php/0626/mvc/spl.php",
+				"/E/BBS/php/blog/Psr4Autoload.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/config/namespaces.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/vendor/tdc/framework/src/Tpl.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/index.php",
+				"/E/BBS/php/0627/index.php",
+				"/E/BBS/php/0627/Tpl.php",
+				"/E/BBS/php/0626/mvc/vendor/lk/framework/src/image.php",
+				"/E/BBS/php/0626/mvc/index.php",
+				"/E/BBS/php/0626/mvc/app/Controller/IndexController.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/test/TestController.php",
+				"/E/BBS/php/0627/mvc/vendor/tdc/framework/src/Tpl.php",
+				"/E/BBS/php/0627/mvc/bootstrap/Start.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/133884_2_0/httpd.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/133884_2_1/0.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/133884_2_2/httpd.conf",
+				"/E/BBS/php/0628/index.html",
+				"/E/BBS/php/0628/lhc-zuoye.php",
+				"/E/BBS/php/0628/test.php",
+				"/E/BBS/php/0624/刘汉宸_database.php",
+				"/D/Program Files/feiq/Recv Files/7/Tpl.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/bootstrap/Start.php",
+				"/E/BBS/php/0627/test/Tpl.php",
+				"/E/BBS/php/0627/test/ttppll.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/bootstrap/Psr4Autoload.php",
+				"/E/BBS/php/0627/mvc/cache/eacf331f0ffc35d4b482f1d15a887d3b.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/vendor/lk/framework/src/Model.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/591164_2_0/index.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/591164_2_1/index.html",
+				"/E/BBS/php/0627/test.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/132752_2_2/index.html",
+				"/D/Program Files/feiq/Recv Files/mvc/index.php",
+				"/D/Program Files/feiq/Recv Files/mvc/spl.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/132752_2_1/index.html",
+				"/E/BBS/php/0626/test.php",
+				"/E/BBS/php/0626/mvc/index2.php",
+				"/E/BBS/php/0626/mvc/test/TestController.php",
+				"/E/BBS/php/0623/config.php",
+				"/E/BBS/php/0623/text.php",
+				"/E/BBS/php/0624/hw.php",
+				"/E/BBS/zuoye/zuoye/function/array.php",
+				"/E/BBS/zuoye/zuoye/function/func.php",
+				"/E/BBS/php/0624/database.php",
+				"/E/BBS/zuoye/array.php",
+				"/E/BBS/zuoye/zuoye/php/php-1.php",
+				"/D/Program Files/feiq/Recv Files/config.php",
+				"/D/Program Files/feiq/Recv Files/model.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_6/index.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_7/config.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_9/index.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_12/finder.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_5/common.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_8/finder.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_10/httpd.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_11/0.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/329476_2_4/text.php",
+				"/E/BBS/php/0622/aaaa.php",
+				"/E/BBS/php/0622/liuhanchen0622.php",
+				"/E/BBS/php/0622/test.php",
+				"/D/Program Files/feiq/Recv Files/Verify.php",
+				"/E/BBS/php/0621/liuhanchen0621.php",
+				"/E/BBS/php/0621/test.php",
+				"/C/Users/liuha_000/Desktop/BBS/helper/function/func_mysql.php",
+				"/E/BBS/php/0620/text.php",
+				"/C/Users/liuha_000/Desktop/BBS/index.php",
+				"/E/BBS/php/0619/text.php",
+				"/C/Users/liuha_000/Desktop/BBS-lhc/common.php",
+				"/C/Users/liuha_000/Desktop/BBS/install/bbs.sql",
+				"/C/Users/liuha_000/Desktop/home_tj.php",
+				"/C/Users/liuha_000/Desktop/lhy-bbs/common/home.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/admin/link.html",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/reg.php",
+				"/C/Users/liuha_000/Desktop/BBS/helper/function/details_func.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/front/header.html",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/details.php",
+				"/C/Users/liuha_000/Desktop/BBS/admin/userDel.php",
+				"/C/Users/liuha_000/Desktop/BBS/public/css/admin.css",
+				"/C/Users/liuha_000/Desktop/BBS/views/admin/userManage.html",
+				"/C/Users/liuha_000/Desktop/BBS/admin/userManage.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/front/details_main.html",
+				"/C/Users/liuha_000/Desktop/BBS/views/front/details.html",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/publish_verify.php",
+				"/C/Users/liuha_000/Desktop/BBS/admin/link_verify.php",
+				"/C/Users/liuha_000/Desktop/BBS/admin/replyRecycle.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/admin/replyRecycle.html",
+				"/C/Users/liuha_000/Desktop/BBS/views/admin/detailsRecycle.html",
+				"/C/Users/liuha_000/Desktop/BBS/admin/detailsRecycle.php",
+				"/C/Users/liuha_000/Desktop/BBS/admin/replyManage.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/admin/replyManage.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"E:\\BBS\\php\\blog",
+					"C:\\Users\\liuha_000\\Desktop\\BBS"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"select",
+					"limit",
+					"render",
+					"add",
+					"fields",
+					"regverify",
+					"reply",
+					"img",
+					"add",
+					"select",
+					"index",
+					"regverify",
+					"register",
+					"logout",
+					"text",
+					"select",
+					"regverif",
+					"function",
+					"login",
+					"add",
+					"</tr>",
+					"</td>",
+					"<td>",
+					"<tr>",
+					"display",
+					"filepath",
+					"value",
+					"dbmodel",
+					"prefix",
+					"public function",
+					"login",
+					"verify",
+					"email",
+					"emial",
+					"code",
+					"qd",
+					"session",
+					"password",
+					"option",
+					"$table",
+					"：",
+					"手机号：",
+					"用户名：",
+					"search",
+					"IndexController",
+					"首页",
+					"del",
+					"delCache",
+					"DB_HOST",
+					";",
+					"getEr",
+					"getErr",
+					"getError",
+					"4",
+					"error",
+					"include",
+					"Namespace",
+					"Namespaces",
+					"ddNamespaces",
+					"this->fields",
+					"fields",
+					"getFields",
+					"options",
+					"fields",
+					"getfields",
+					"getby",
+					"options",
+					"die",
+					"fields",
+					"REQUEST_URI",
+					"count",
+					"die;",
+					"data",
+					"offset",
+					"123",
+					"offset",
+					"=",
+					"sql",
+					"public ",
+					"returen",
+					"this",
+					"host",
+					"\\",
+					"E:/BBS/bbs",
+					"\\",
+					"Person",
+					";\n",
+					";",
+					"WEB_SITE",
+					"website",
+					"经验",
+					"[$i]",
+					"var",
+					"var_dump",
+					"var",
+					"result",
+					";\n",
+					"form",
+					"uidToname",
+					"link",
+					"charset",
+					"details",
+					"nav",
+					"group",
+					"hidden",
+					"pid",
+					"{#WEB_SITE}",
+					"info",
+					"haha",
+					"readonly=\"readonly\"",
+					"new",
+					"path",
+					"0",
+					"details",
+					"detail",
+					"发帖",
+					"pwd_database",
+					"power",
+					"\"",
+					"userdata",
+					"details",
+					"v",
+					"#",
+					"phpxy",
+					"发帖",
+					"$data",
+					":",
+					"电梯"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"{P display('header.html',compact('pid','breadcrumb'))}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 945.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"page",
+						"Page"
+					],
+					[
+						"new",
+						"newUser"
+					],
+					[
+						"_",
+						"_SESSION"
+					],
+					[
+						"names",
+						"namespace"
+					],
+					[
+						"preg_rep",
+						"preg_replace_callback"
+					],
+					[
+						"compi",
+						"compileTime"
+					],
+					[
+						"fu",
+						"fun\tfunction …"
+					],
+					[
+						"data",
+						"Database"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"__",
+						"__construct"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"link",
+						"link_verify"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"bbs",
+						"bbs_user"
+					],
+					[
+						"ip",
+						"ip2long"
+					],
+					[
+						"user",
+						"userdata"
+					],
+					[
+						"a",
+						"answer"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"category",
+						"categoryMan"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"details",
+						"detailsManage"
+					],
+					[
+						"admin",
+						"adminIndex"
+					],
+					[
+						"preg",
+						"preg_match"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"is_",
+						"is_array"
+					],
+					[
+						"class",
+						"classname"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"from",
+						"form-control"
+					],
+					[
+						"strc",
+						"strchr"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"_S",
+						"_SESSION"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"uid",
+						"uidToname"
+					],
+					[
+						"bbs_",
+						"bbs_userdata"
+					],
+					[
+						"name",
+						"nameArr"
+					],
+					[
+						"cla",
+						"classid"
+					],
+					[
+						"bm",
+						"bmUser"
+					],
+					[
+						"cl",
+						"classid"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"time",
+						"timeToday"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"cid",
+						"cidData"
+					],
+					[
+						"list",
+						"listToday"
+					],
+					[
+						"form",
+						"form-control"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"TPL",
+						"TPL_IMG"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"big",
+						"bigtitle"
+					],
+					[
+						"bot",
+						"button\tTag"
+					],
+					[
+						"gl",
+						"global"
+					],
+					[
+						"gol",
+						"global"
+					],
+					[
+						"pwd",
+						"pwd_database"
+					],
+					[
+						"met",
+						"meta\tTag"
+					],
+					[
+						"array_me",
+						"array_merge_recursive"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"nu",
+						"num2"
+					],
+					[
+						"func_get",
+						"func_get_arg"
+					],
+					[
+						"float",
+						"floatval"
+					],
+					[
+						"pd",
+						"padding-bottom"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"navi",
+						"navi-item"
+					],
+					[
+						"while",
+						"while-1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n  \n    ____        _     _ _                _     _       _\n   / ___| _   _| |__ | (_)_ __ ___   ___| |   (_)_ __ | |_ ___ _ __\n   \\___ \\| | | | '_ \\| | | '_ ` _ \\ / _ \\ |   | | '_ \\| __/ _ \\ '__|\n    ___) | |_| | |_) | | | | | | | |  __/ |___| | | | | ||  __/ |\n   |____/ \\__,_|_.__/|_|_|_| |_| |_|\\___|_____|_|_| |_|\\__\\___|_|\n  \n  \n  Welcome to SublimeLinter, a linter framework for Sublime Text 3.\n  \n                   * * * IMPORTANT! * * *\n  \n          SublimeLinter 3 is NOT a drop-in replacement for\n          earlier versions.\n  \n          Linters *NOT* included with SublimeLinter 3, \n          they must be installed separately.\n  \n          The settings are different.\n  \n                  * * * READ THE DOCS! * * *\n  \n  Otherwise you will never know how to install linters, nor will\n  you know about all of the great new features in SublimeLinter 3.\n  \n  For complete documentation on how to install and use SublimeLinter,\n  please see:\n  \n  http://www.sublimelinter.com\n  \n  \n                   _   _      _       _\n                  | | | | ___| |_ __ | |\n                  | |_| |/ _ \\ | '_ \\| |\n                  |  _  |  __/ | |_) |_|\n                  |_| |_|\\___|_| .__/(_)\n                               |_|\n  \n  \n  Hundreds of hours have been spent writing and documenting SublimeLinter\n  to make it the best it can be — easy to use, easy to configure,\n  easy to update, easy to extend. If you use SublimeLinter and feel\n  it is making your coding life better and easier, please consider\n  making a donation to help fund development and support.\n  \n  To donate: https://github.com/SublimeLinter/SublimeLinter3#share-the-love\n  \n  Thank you!\n\n\nSublimeLinter-jshint\n--------------------\n\n  SublimeLinter-jshint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to jshint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/SublimeLinter/SublimeLinter-jshint\n\n\nSublimeLinter-jshint\n--------------------\n\n  SublimeLinter-jshint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to jshint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/SublimeLinter/SublimeLinter-jshint\n",
+					"settings":
+					{
+						"buffer_size": 2445,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/E/BBS/php/js/0705/test.js",
+					"settings":
+					{
+						"buffer_size": 378,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/BBS/php/js/0705/test.php",
+					"settings":
+					{
+						"buffer_size": 16,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1633,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/BBS/php/js/0705/test.html",
+					"settings":
+					{
+						"buffer_size": 384,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimelinter: ",
+						"SublimeLinter: Create Linter Plugin"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Environment"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 293.0,
+				"history":
+				[
+					"ln -s /usr/bin/nodejs /usr/bin/node",
+					"where linter;",
+					"where linter",
+					"npm",
+					"npm install -g jshint",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/BBS/php/blog",
+				"/E/BBS/php/blog/app",
+				"/E/BBS/php/blog/app/Controller",
+				"/E/BBS/php/blog/app/Model",
+				"/E/BBS/php/blog/bootstrap",
+				"/E/BBS/php/blog/config",
+				"/E/BBS/php/blog/tpl",
+				"/E/BBS/php/blog/vendor",
+				"/E/BBS/php/blog/vendor/lhc",
+				"/E/BBS/php/blog/vendor/lhc/framework",
+				"/E/BBS/php/blog/vendor/lhc/framework/src"
+			],
+			"file_history":
+			[
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/E/BBS/php/js/0705/test.js",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/sublimelinter.py",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/messages.json",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/README.md",
+				"/E/BBS/php/js/0705/test.html",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/rem-unit/rem-unit.sublime-settings",
+				"/E/BBS/php/js/0704/test.html",
+				"/E/wamp/bin/apache/apache2.4.23/conf/httpd.conf",
+				"/E/wamp/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_16/config.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_19/namespaces.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_21/verify.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_17/Tpl.php",
+				"/C/Users/liuha_000/Downloads/index (21).php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_25/verify.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_20/Psr4Autoload.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_29/detailsMana.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_28/adminIndex.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_27/Psr4Autoload.php",
+				"/E/BBS/php/blog/tpl/adminIndex.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_26/Start.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_32/user.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_31/Model.php",
+				"/E/BBS/php/blog/tpl/index.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_30/IndexController.php",
+				"/C/Users/liuha_000/Downloads/下载 (9)",
+				"/E/BBS/php/blog/app/Model/Model.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_15/IndexController.php",
+				"/E/BBS/php/blog/tpl/detailsMana.html",
+				"/C/Users/liuha_000/Downloads/下载 (5)",
+				"/C/Users/liuha_000/Downloads/index (6).php",
+				"/C/Users/liuha_000/Downloads/index (5).php",
+				"/C/Users/liuha_000/Downloads/index (1).php",
+				"/C/Users/liuha_000/Downloads/index.php",
+				"/C/Users/liuha_000/Downloads/index (34).php",
+				"/C/Users/liuha_000/Downloads/index (29).php",
+				"/C/Users/liuha_000/Downloads/index (26).php",
+				"/C/Users/liuha_000/Downloads/index (25).php",
+				"/C/Users/liuha_000/Downloads/index (20).php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_24/Verify.php",
+				"/E/BBS/php/blog/config/namespaces.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_6_23/php.ini",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_6_22/httpd.conf",
+				"/C/Users/liuha_000/Downloads/index (3).php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_18/Verify.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_4_14/index2.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_4_12/Psr4AutoLoad.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_4_13/Start.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_5/index.php",
+				"/E/BBS/php/blog/index.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_6/IndexController.php",
+				"/E/BBS/php/blog/tpl/user.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_10/Psr4Autoload.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_4/Start.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_7/IndexController.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_11/namespaces.php",
+				"/E/BBS/php/blog/bootstrap/Psr4Autoload.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_3/Psr4Autoload.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_8/Psr4Autoload.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_9/namespaces.php",
+				"/E/BBS/php/0628/upload/up.php",
+				"/E/BBS/php/blog/tpl/register.html",
+				"/E/BBS/php/blog/tpl/login.html",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_2_1/0.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_2_0/httpd.conf",
+				"/E/BBS/php/blog/app/Model/page.php",
+				"/E/BBS/php/blog/tpl/details.html",
+				"/E/BBS/php/blog/app/Controller/IndexController.php",
+				"/E/BBS/php/blog/app/Model/Upload.php",
+				"/E/BBS/php/blog/.tags_sorted_by_file",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/263162_3_2/php.ini",
+				"/E/BBS/php/0628/index.html",
+				"/E/BBS/php/0628/lhc-zuoye.php",
+				"/E/BBS/php/blog/tpl/publish.html",
+				"/E/BBS/php/blog/tpl/error.html",
+				"/E/BBS/php/blog/tpl/success.html",
+				"/E/BBS/php/blog/cache/d7b87851fb4ddfe29b7619f8f716dc6c.php",
+				"/E/BBS/php/blog/app/Model/Tpl.php",
+				"/E/BBS/php/blog/config/config.php",
+				"/E/BBS/php/blog/bootstrap/Start.php",
+				"/E/BBS/php/blog/app/Controller/Controller.php",
+				"/C/Users/liuha_000/Desktop/BBS/views/front/publish.html",
+				"/E/BBS/php/blog/startbootstrap-blog-home-gh-pages/index.html",
+				"/E/BBS/php/blog/vendor/lhc/framework/src/Verify.php",
+				"/E/BBS/php/blog/test.php",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/register_verify.php",
+				"/E/BBS/php/0623/Verify.php",
+				"/C/Users/liuha_000/Desktop/BBS/helper/compiler/login_verify.php",
+				"/E/BBS/php/blog/app/Model/model (2).php",
+				"/E/BBS/php/0623/model.php",
+				"/E/BBS/php/0627/mvc/vendor/cm/framework/src/upload.php",
+				"/E/BBS/php/0627/mvc/vendor/lk/framework/src/Model.php",
+				"/E/BBS/php/blog/bootstrap/start.php",
+				"/E/BBS/php/0627/mvc/index.php",
+				"/E/BBS/php/0628/upload/get_class_vars.php",
+				"/E/BBS/php/0628/upload/Upload.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/app/Controller/IndexController.php",
+				"/E/BBS/php/0626/mvc/spl.php",
+				"/E/BBS/php/blog/Psr4Autoload.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/config/namespaces.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/vendor/tdc/framework/src/Tpl.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/index.php",
+				"/E/BBS/php/0627/index.php",
+				"/E/BBS/php/0627/Tpl.php",
+				"/E/BBS/php/0626/mvc/vendor/lk/framework/src/image.php",
+				"/E/BBS/php/0626/mvc/index.php",
+				"/E/BBS/php/0626/mvc/app/Controller/IndexController.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/test/TestController.php",
+				"/E/BBS/php/0627/mvc/vendor/tdc/framework/src/Tpl.php",
+				"/E/BBS/php/0627/mvc/bootstrap/Start.php",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/133884_2_0/httpd.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/133884_2_1/0.conf",
+				"/C/Users/liuha_000/Documents/MobaXterm/slash/RemoteFiles/133884_2_2/httpd.conf",
+				"/E/BBS/php/0628/test.php",
+				"/E/BBS/php/0624/刘汉宸_database.php",
+				"/D/Program Files/feiq/Recv Files/7/Tpl.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/bootstrap/Start.php",
+				"/E/BBS/php/0627/test/Tpl.php",
+				"/E/BBS/php/0627/test/ttppll.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/bootstrap/Psr4Autoload.php",
+				"/E/BBS/php/0627/mvc/cache/eacf331f0ffc35d4b482f1d15a887d3b.php",
+				"/E/BBS/php/0627/mvc/mvc(1)/vendor/lk/framework/src/Model.php"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"E:\\BBS\\php\\blog",
+					"C:\\Users\\liuha_000\\Desktop\\BBS"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\\",
+					"'",
+					"var_dump",
+					"echo ",
+					"add",
+					"asdfasdf",
+					"echo ",
+					"var",
+					"display_error",
+					"包含",
+					"addnamespace",
+					"addname",
+					"namespaces",
+					"die",
+					"display_error",
+					"page",
+					"del",
+					"function index",
+					"echo ",
+					"update",
+					"select",
+					"limit",
+					"render",
+					"add",
+					"fields",
+					"regverify",
+					"reply",
+					"img",
+					"add",
+					"select",
+					"index",
+					"regverify",
+					"register",
+					"logout",
+					"text",
+					"select",
+					"regverif",
+					"function",
+					"login",
+					"add",
+					"</tr>",
+					"</td>",
+					"<td>",
+					"<tr>",
+					"display",
+					"filepath",
+					"value",
+					"dbmodel",
+					"prefix",
+					"public function",
+					"login",
+					"verify",
+					"email",
+					"emial",
+					"code",
+					"qd",
+					"session",
+					"password",
+					"option",
+					"$table",
+					"：",
+					"手机号：",
+					"用户名：",
+					"search",
+					"IndexController",
+					"首页",
+					"del",
+					"delCache",
+					"DB_HOST",
+					";",
+					"getEr",
+					"getErr",
+					"getError",
+					"4",
+					"error",
+					"include",
+					"Namespace",
+					"Namespaces",
+					"ddNamespaces",
+					"this->fields",
+					"fields",
+					"getFields",
+					"options",
+					"fields",
+					"getfields",
+					"getby",
+					"options",
+					"die",
+					"fields",
+					"REQUEST_URI",
+					"count",
+					"die;",
+					"data",
+					"offset",
+					"123",
+					"offset",
+					"=",
+					"sql",
+					"public ",
+					"returen",
+					"this",
+					"host",
+					"\\",
+					"E:/BBS/bbs",
+					"\\",
+					"Person",
+					";\n",
+					";",
+					"WEB_SITE",
+					"website",
+					"经验",
+					"[$i]",
+					"var",
+					"var_dump",
+					"var",
+					"result",
+					";\n",
+					"form",
+					"uidToname",
+					"link",
+					"charset",
+					"details",
+					"nav",
+					"group",
+					"hidden",
+					"pid",
+					"{#WEB_SITE}",
+					"info"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"{P display('header.html',compact('pid','breadcrumb'))}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\BBS\\php\\blog"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2162,
+										2162
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"default_dir": "E:\\BBS\\php\\blog",
+									"is_init_dirty_state": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1433.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/BBS/php/js/0705/test.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 378,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 69.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/BBS/php/js/0705/test.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16,
+										16
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/liuha_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1633,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										878,
+										878
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												878,
+												879
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												852,
+												853
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 82.0,
+								"translation.y": 70.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/BBS/php/js/0705/test.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 384,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										80,
+										80
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,728,0,0,984",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 23,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/liuha_000/Desktop/课程/1.sublime-workspace"
+		]
+	}
+}

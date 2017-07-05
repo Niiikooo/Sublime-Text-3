@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_face": "Consolas",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Default.sublime-theme",
+	"theme_tab_rounded": true,
+	"theme_tab_selected_label_bold": true,
+	"theme_tab_selected_underlined": true
+}

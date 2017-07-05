@@ -1,0 +1,20 @@
+[
+	//chrome
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+            "extensions":".*" //匹配任何文件类型
+        }
+    },
+        
+{"keys":["ctrl+alt+f"],"command":"alignment"},
+
+
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "words", "forward": false} },
+	{ "keys": ["ctrl+space"], "command": "move", "args": {"by": "word_ends", "forward": true} },
+
+
+
+
+]
